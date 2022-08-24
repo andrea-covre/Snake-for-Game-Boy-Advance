@@ -37,7 +37,7 @@ After losing the game the score (based on how many targets have been eaten) will
 shown in the Game Over scene
 
 
-<<< IPLEMENTATION >>> -----------------------------------------------------------------------
+<<< IMPLEMENTATION >>> -----------------------------------------------------------------------
 
 1. The entire screen never gets updated during a game, only 2 squares will be drawn, 
    one for the new head of the snake (the next movement), and one to hide the tail
